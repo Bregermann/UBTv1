@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 43e482f0afab1e74cbb322dac2ee9ff4
+timeCreated: 1505853299
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Abdomen
+    100002: //RootNode
+    100004: Back
+    100006: Body
+    100008: Cane
+    100010: Chest
+    100012: Cylinder.003
+    100014: Head
+    100016: Head_end
+    100018: LeftArm
+    100020: LeftArmMiddle
+    100022: LeftBackDownLeg
+    100024: LeftBackFeet
+    100026: LeftBackFeet_end
+    100028: LeftBackUpperLeg
+    100030: LeftFrontDownLeg
+    100032: LeftFrontFeet
+    100034: LeftFrontFeet_end
+    100036: LeftFrontUpperLeg
+    100038: LeftHand
+    100040: LeftHand_end
+    100042: Neck
+    100044: RightArm
+    100046: RightArmMiddle
+    100048: RightBackDownLeg
+    100050: RightBackFeet
+    100052: RightBackFeet_end
+    100054: RightBackUpperLeg
+    100056: RightFrontDownLeg
+    100058: RightFrontFeet
+    100060: RightFrontFeet_end
+    100062: RightFrontUpperLeg
+    100064: RightHand
+    100066: RightHand_end
+    100068: Shepherd
+    100070: TailEnd
+    100072: TailEnd_end
+    100074: TailMiddle
+    100076: TailStart
+    400000: Abdomen
+    400002: //RootNode
+    400004: Back
+    400006: Body
+    400008: Cane
+    400010: Chest
+    400012: Cylinder.003
+    400014: Head
+    400016: Head_end
+    400018: LeftArm
+    400020: LeftArmMiddle
+    400022: LeftBackDownLeg
+    400024: LeftBackFeet
+    400026: LeftBackFeet_end
+    400028: LeftBackUpperLeg
+    400030: LeftFrontDownLeg
+    400032: LeftFrontFeet
+    400034: LeftFrontFeet_end
+    400036: LeftFrontUpperLeg
+    400038: LeftHand
+    400040: LeftHand_end
+    400042: Neck
+    400044: RightArm
+    400046: RightArmMiddle
+    400048: RightBackDownLeg
+    400050: RightBackFeet
+    400052: RightBackFeet_end
+    400054: RightBackUpperLeg
+    400056: RightFrontDownLeg
+    400058: RightFrontFeet
+    400060: RightFrontFeet_end
+    400062: RightFrontUpperLeg
+    400064: RightHand
+    400066: RightHand_end
+    400068: Shepherd
+    400070: TailEnd
+    400072: TailEnd_end
+    400074: TailMiddle
+    400076: TailStart
+    2300000: Cane
+    3300000: Cane
+    4300000: Cylinder.003
+    4300002: Cane
+    7400000: Shepherd|Attack
+    7400002: Shepherd|Idle
+    7400004: Shepherd|Idle2
+    7400006: Shepherd|Running
+    7400008: Shepherd|Walking
+    9500000: //RootNode
+    13700000: Cylinder.003
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
